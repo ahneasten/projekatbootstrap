@@ -1,0 +1,43 @@
+.customwidth {
+width:12.5%;
+list-style:none;
+text-align:center;
+}
+.naslovnaSlika {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}
+.top-left2 {
+  position: absolute;
+  top: 50px;
+  left: 0px;
+}
+
+.stilTexta{
+	text-align:justify;
+	
+}
+.ikonice {
+	
+	width:18px;
+}
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
+ul.a {
+  list-style-type: circle;
+}	
